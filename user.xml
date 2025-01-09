@@ -1,4 +1,5 @@
-<student>
+<students>
+    <student>
       <name>Suneetha</name>
       <email>suneetharanig@gmail.com</email>
       <addresses>
@@ -11,5 +12,34 @@
                 <street>triveni road</street>
             </currentaddress>
        </addresses>  
-</student>                       
+    </student>  
+    <student>
+      <name>Suneetha</name>
+      <email>suneetharanig@gmail.com</email>
+      <addresses>
+            <permaddress>
+               <doorno>201</doorno>
+               <street>triveni road</street>
+            </permaddress>
+            </currentaddress>
+                <doorno>201</doorno>
+                <street>triveni road</street>
+            </currentaddress>
+       </addresses>  
+    </student>  
+    <student>
+      <name>Suneetha</name>
+      <email>suneetharanig@gmail.com</email>
+      <addresses>
+            <permaddress>
+               <doorno>201</doorno>
+               <street>triveni road</street>
+            </permaddress>
+            </currentaddress>
+                <doorno>201</doorno>
+                <street>triveni road</street>
+            </currentaddress>
+       </addresses>  
+    </student>  
+</students>                     
             
