@@ -1,0 +1,39 @@
+- name: Suneetha
+  email: suneetharanig@gmail.com
+  addresses:   #list of address
+  - type: perm
+    doorno: 201
+    street: "Triveni main road"
+    city: Bangalore
+  - type: current
+    doorno: 201
+    street: "Triveni main road"
+    city: Bangalore
+    
+- name: Suneetha
+  email: suneetharanig@gmail.com
+  addresses:   #list of address
+  - type: perm
+    doorno: 201
+    street: "Triveni main road"
+    city: Bangalore
+  - type: current
+    doorno: 201
+    street: "Triveni main road"
+    city: Bangalore
+    
+- name: Suneetha
+  email: suneetharanig@gmail.com
+  addresses:   #list of address
+  - type: perm
+    doorno: 201
+    street: "Triveni main road"
+    city: Bangalore
+  - type: current
+    doorno: 201
+    street: "Triveni main road"
+    city: Bangalore
+    
+
+ 
+ 

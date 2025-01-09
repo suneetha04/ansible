@@ -1,0 +1,15 @@
+<student>
+      <name>Suneetha</name>
+      <email>suneetharanig@gmail.com</email>
+      <addresses>
+            <permaddress>
+               <doorno>201</doorno>
+               <street>triveni road</street>
+            </permaddress>
+            </currentaddress>
+                <doorno>201</doorno>
+                <street>triveni road</street>
+            </currentaddress>
+       </addresses>  
+</student>                       
+            

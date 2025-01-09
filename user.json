@@ -1,0 +1,22 @@
+{
+    "name":"suneetha",
+    "email":"suneetharanig@gmail.com",
+    "addresses":
+    [
+
+        {
+            "type":"perm",
+            "doorno":201,
+            "street":"triveni main road",
+            "city":"bangalore"
+        },
+        {
+            "type":"current",
+            "doorno":201,
+            "street":"triveni main road" ,
+            "city":"bangalore"
+        }
+            
+    ]
+
+}
