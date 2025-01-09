@@ -1,6 +1,6 @@
 - name: install and run
   Hosts: web
-  become: yes  # -b means first become root
+  become: yes # -b 
   tasks:
   - name: install nginx
     ansible.builtin.packages:
