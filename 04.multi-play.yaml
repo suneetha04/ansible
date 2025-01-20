@@ -1,5 +1,5 @@
 - name: PLAY1
-  host: local
+  hosts: local
   connection: local   # managing its own node no need of credentials
   tasks:
   - name: PLAY1 and TASK1
