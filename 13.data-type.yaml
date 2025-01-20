@@ -16,5 +16,5 @@
     containerization: Docker
   tasks:
   - name: print course information
-      msg: "Hello Iam learning {{course_name}}, duration:{{ duration }}, topics are:{{ topics }}, is it live?: {{ live }}, 
-      tools covered are:{{ tools }}"
+      msg: "Hello Iam learning "{{ course_name }}", duration: "{{ duration }}", topics are:"{{ topics }}", is it live?: "{{ live }}", 
+      tools covered are:"{{ tools }} " "
