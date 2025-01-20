@@ -7,7 +7,7 @@
      msg: "Hello from PLAY1 and TASK1"
 
 - name: play2
-  host: local
+  hosts: local
   connection: local #managing its own node no need of credentials
   tasks:
   - name: play2 and task2
