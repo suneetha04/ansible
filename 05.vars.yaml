@@ -4,7 +4,7 @@
   vars:  #play level variables
     COURSE: "DEVOPS WITH AWS"
     DURATION: 120HRS
-    TAINER: SIVA KUMAR
+    TAINER: "SIVA KUMAR"
   tasks:
   - name: print the variable
     ansible.builtin.debug:
