@@ -2,7 +2,7 @@
   host: local
   connection: local
   vars: # play level variables, global variables
-   Course: "Devops with AWS"
+   COURSE: "Devops with AWS"
    DURATION: 120HRS
    TRAINER: SIVAKUMAR
   tasks:
