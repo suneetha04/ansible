@@ -13,5 +13,15 @@
      msg: "Fruits are:  {{ fruits | split('.')}}"
 
 
+  - name: convert map to list
+    vars:
+      courses:
+         name: ansible
+         Duration: 10hrs
+         Trainer: siva 
+    ansible.builtin.debug:
+     msg: "Course info:  {{ course | dict2items }}"
+
+
 
   
