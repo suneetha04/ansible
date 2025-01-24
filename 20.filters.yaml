@@ -33,6 +33,13 @@
       Name: "SivA KuMaR ReDdy"     
     ansible.builtin.debug:
      msg: "Hello {{ Name | upper }}"
+  
+  - name: print max to min numbers
+    vars:
+      Numbers: [10,120, 1,2,3,451235]     
+    ansible.builtin.debug:
+     msg: "Min is: {{ Numbers | min }} Max is:  {{ Numbers | max }} "
+
 
 
 
