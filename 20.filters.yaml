@@ -13,9 +13,9 @@
      msg: "Fruits are:  {{ fruits | split('.')}}"
 
 
-  - name: convert map to list
+  - name: convert map into list
     vars:
-      courses:
+      course:
          name: ansible
          Duration: 10hrs
          Trainer: siva 
