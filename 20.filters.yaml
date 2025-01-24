@@ -6,10 +6,12 @@
     ansible.builtin.debug:
      msg: "Hello {{ person | default ('suneetha')}}"
 
-
-
   - name: convert string to list
     vars:
-      fruits: "apple", "banana", "orange"
+      fruits: "apple, banana, orange"     #string 
     ansible.builtin.debug:
-      msg: "Fruits are: {{ fruits | split(',') }}"
+     msg: "Fruits are:  {{ fruits | split('.')}}"
+
+
+
+  
